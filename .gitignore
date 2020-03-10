@@ -1,6 +1,6 @@
 #Custom
 env/
-scrub-tests.ipynb
+*scrub*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
