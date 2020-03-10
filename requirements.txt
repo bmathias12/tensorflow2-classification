@@ -18,6 +18,7 @@ google-auth==1.11.2
 google-auth-oauthlib==0.4.1
 google-pasta==0.1.8
 googleapis-common-protos==1.51.0
+graphviz==0.13.2
 grpcio==1.27.2
 h5py==2.10.0
 idna==2.9
@@ -59,6 +60,7 @@ protobuf==3.11.3
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pydot==1.4.1
 Pygments==2.6.1
 pyparsing==2.4.6
 pyrsistent==0.15.7
